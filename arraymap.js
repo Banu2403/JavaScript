@@ -1,4 +1,4 @@
-const persons = [
+const people = [
     { firstname: "Elvin", lastname: "Huseynov" },
     { firstname: "Ruslan", lastname: "Mammadov" },
     { firstname: "Jessica", lastname: "Isgenderli" }
@@ -8,7 +8,7 @@ const persons = [
     return [item.firstname, item.lastname].join(" ");
   }
   
-  const fullNames = persons.map(getFullName);
+  const fullNames = people.map(getFullName);
   
   console.log(fullNames); 
   

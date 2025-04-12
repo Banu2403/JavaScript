@@ -1,0 +1,104 @@
+// const fruits = ["apple", "banana", "apple", "orange", "banana", "apple"];
+
+// const fruitCount = fruits.reduce((acc, curr) => {
+//   if (!acc[curr]) {
+//     acc[curr] = 1;
+
+//     return acc;
+//   }
+
+//   acc[curr] += 1;
+
+//   return acc;
+// }, {});
+
+
+// const products = [
+//   { name: "Laptop", price: 1200, available: true },
+//   { name: "Phone", price: 800, available: false },
+//   { name: "Tablet", price: 400, available: true },
+// ];
+// const wanted_products = products
+//   .filter((element) => element.available)
+//   .reduce((accumulator, currentValue) => {
+//     accumulator += currentValue.price;
+//     return accumulator;
+//   }, 0);
+// console.log(wanted_products);
+
+
+// const numbers = [
+//   3, 1, 4, 1, 5, 9, 2, 6, 5, 5, 3, 2, 4, 5, 6, 3, 4, 2, 1, 2, 3, 4, 5, 6, 7, 8,
+//   9,
+// ];
+// const uniqueNumbers = numbers.filter(
+//   (num, index) => numbers.indexOf(num) === index
+// );
+
+// const uniqueNumbers = new Set(numbers);
+
+// console.log(uniqueNumbers);
+
+// const nestedNumbers = [
+//   [1, 2, 3],
+//   [4, 5, 6],
+//   [7, 8],
+// ];
+
+// const flattenedArr = nestedNumbers.flat().reduce(
+//   (acc, curr) => {
+//     if (curr % 2 === 0) {
+//       acc.cut += curr;
+
+//       return acc;
+//     }
+//     acc.tek += curr;
+//     return acc;
+//   },
+//   { tek: 0, cut: 0 }
+// );
+
+// console.log(flattenedArr);
+
+// const users = [
+//   { id: 1, username: "johnDoe", email: "john@example.com" },
+//   { id: 2, username: "janeDoe", email: "jane@example.com" },
+// ];
+// const findByName = (place, info) => {
+//   const find = place.find((element) => element.username == info);
+//   console.log(find);
+// };
+
+// console.log(findByName(users, "johnDoe"));
+
+
+// const array1 = [1, 3, 5];
+// const array2 = [2, 4, 6];
+
+// const nwArr = array1.concat(array2).sort();
+
+// console.log(new_array, nwArr);
+
+
+// 1. method
+// const demo = document.getElementById("demo");
+
+// console.log(demo);
+
+// 2. method
+// const demo = document.getElementsByClassName("demo1");
+
+// console.log(demo);
+
+// 3. method
+// const demo = document.querySelector("p");
+// demo.textContent = "Salam";
+// demo.style.color = "red";
+// demo.setAttribute("href", "//link");
+// console.log(demo);
+
+// New Element
+// const b = document.createElement("b");
+// b.textContent = "B Tagi yaratdiq";
+// document.body.appendChild(b);
+// document.body.removeChild(b);

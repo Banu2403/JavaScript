@@ -1,5 +1,4 @@
 searchForm.onsubmit = async e => {
-    e.preventDefault();
     const q = pokemonInput.value.trim().toLowerCase();
     if (!q) return errorMsg.textContent = "Enter a name!";
     errorMsg.textContent = result.innerHTML = "";

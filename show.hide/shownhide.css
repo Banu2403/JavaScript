@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 300px;
+    background-image: url("./bg\ pc.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#btn {
+ background-color: brown;
+ padding: 10px;
+ border-radius: 10px;
+}

@@ -98,24 +98,6 @@ A self-driving platform using **LiDAR, OpenCV and Jetson Orin NX** for environme
 
 ## GitHub
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Banu2403&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Banu2403&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Banu2403&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Banu2403&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
 <br>
 
 <div align="center">

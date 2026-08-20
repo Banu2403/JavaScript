@@ -1,61 +1,64 @@
 <div align="center">
 
-# BANU
+<img src="https://capsule-render.vercel.app/api?type=blur&color=gradient&height=260&section=header&text=BANU&fontSize=90&fontAlignY=45&animation=twinkling"/>
 
-`robotics / ai / computer vision`
+### Robotics · Artificial Intelligence · Computer Vision
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=700&color=8B5CF6&center=true&vCenter=true&width=650&lines=I+build+robots.;I+teach+machines+to+see.;I+turn+ideas+into+systems.;Always+building+something+new."/>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=17&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=student+%2F+builder+%2F+competitor;creating+intelligent+machines;from+code+to+real+world"/>
 
 </div>
 
 <br>
 
-```text
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│   01  /  PROFILE                                             │
-│                                                              │
-│   Student developer exploring the intersection of            │
-│   software, robotics and artificial intelligence.             │
-│                                                              │
-│   Currently → AI · CV · Autonomous Robotics · C++             │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-```
+## Hello, I'm Banu.
+
+I build things at the intersection of **software, robotics and AI**.
+
+My main interest is creating systems that can **see, understand and interact with the physical world**.
+
+Currently exploring **Computer Vision, Machine Learning, ROS 2, SLAM and Autonomous Navigation.**
 
 <br>
 
-## `01 — WHAT I BUILD`
+<div align="center">
+
+### `WHAT I'M INTO`
+
+🤖 **ROBOTICS**  🧠 **AI / ML**  👁️ **COMPUTER VISION**  ⚡ **AUTONOMOUS SYSTEMS**
+
+</div>
+
+<br>
+
+---
+
+### Featured work
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
-### ◉ ROBOTS
+#### GUIDE X
 
-Autonomous navigation
-Sensors & perception
-Embedded systems
+**Museum Guide Robot**
 
-</td>
+An autonomous robot that navigates through a museum, stops at exhibits and presents information to visitors.
 
-<td align="center" width="33%">
-
-### ◉ AI
-
-Computer Vision
-Machine Learning
-Real-time detection
+`Arduino` · `Robotics` · `Navigation`
 
 </td>
 
-<td align="center" width="33%">
+<td width="50%" valign="top">
 
-### ◉ SOFTWARE
+#### AUTONOMOUS VEHICLE
 
-C++
-Python
-React / TypeScript
+**Perception & Navigation**
+
+A self-driving platform using **LiDAR, OpenCV and Jetson Orin NX** for environmental perception and autonomous movement.
+
+`LiDAR` · `OpenCV` · `Jetson`
 
 </td>
 </tr>
@@ -63,82 +66,64 @@ React / TypeScript
 
 <br>
 
-## `02 — SELECTED WORK`
-
-### `GUIDEX` / Museum Robotics
-
-> An autonomous museum guide designed to navigate predefined routes, stop at exhibits and communicate information to visitors.
-
-`Arduino` `Sensors` `Navigation` `Audio`
-
----
-
-### `AUTONOMOUS VEHICLE` / Perception
-
-> An autonomous driving project combining **LiDAR + computer vision + Jetson Orin NX** for environmental perception and object detection.
-
-`OpenCV` `LiDAR` `Jetson` `AI`
-
----
-
-## `03 — TOOLBOX`
+### My toolkit
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,typescript,react,nodejs,arduino,opencv,ros,linux,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,typescript,javascript,react,nodejs,opencv,arduino,ros,linux,git,github"/>
 
 </div>
 
 <br>
 
-## `04 — COMPETITION LOG`
-
-```text
-2025 ──────────────────────────────────────────────→ 2026
-
-🥇 Robotex Turkey
-🥇 MaestroBot
-🥇 Informatrix Romania
-🥈 AIRO
-```
-
-`7+ international STEM & robotics competitions`
-
-<br>
-
-## `05 — GITHUB / LIVE DATA`
+---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Banu2403&show_icons=true&hide_border=true&theme=transparent&title_color=8B5CF6&icon_color=8B5CF6&text_color=64748B" height="160"/>
+### Beyond the code
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Banu2403&layout=compact&hide_border=true&theme=transparent&title_color=8B5CF6&text_color=64748B" height="160"/>
+**7+ international STEM & robotics competitions**
+
+<br>
+
+🥇 Robotex Turkey · 🥇 MaestroBot · 🥇 Informatrix Romania
+🥇 WRCC Azerbaijan · 🥈 AIRO · 🥉 WRCC
+🇺🇸 FRC America · 🇮🇳 WRCC India
 
 </div>
 
 <br>
 
-## `06 — NOW`
+---
 
-```text
-╭────────────────────────────────────╮
-│                                    │
-│  learning      →  AI / ML          │
-│  exploring     →  ROS 2 / SLAM     │
-│  building      →  autonomous bots  │
-│  competing     →  robotics         │
-│                                    │
-╰────────────────────────────────────╯
-```
+### GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Banu2403&show_icons=true&hide_border=true&theme=transparent&title_color=7C3AED&icon_color=7C3AED&text_color=64748B"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=Banu2403&theme=transparent&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED"/>
+
+</div>
 
 <br>
 
 <div align="center">
 
-`< build something worth showing />`
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Banu2403&bg_color=ffffff00&color=64748B&line=7C3AED&point=7C3AED&area=true&hide_border=true"/>
 
-<br><br>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=Banu2403&style=flat-square&color=8B5CF6&label=VISITORS"/>
+<br>
+
+<div align="center">
+
+### *building things that move, see and think.*
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Banu2403&style=flat-square&color=7C3AED&label=PROFILE+VIEWS"/>
 
 </div>

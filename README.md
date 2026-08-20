@@ -1,152 +1,206 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00C6FF&height=180&section=header&text=BANU&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:312E81,100:06B6D4&height=220&section=header&text=BANU%20ISGANDARLI&fontSize=48&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn"/>
 
-### `ROBOTICS • AI • COMPUTER VISION`
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=7F00FF&center=true&vCenter=true&width=700&lines=Building+autonomous+robots+%F0%9F%A4%96;Exploring+Artificial+Intelligence+%F0%9F%A7%A0;Computer+Vision+%2B+Robotics+%2B+Code;Turning+ideas+into+real+systems+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=800&lines=ROBOTICS+ENGINEER+IN+PROGRESS;AI+%7C+COMPUTER+VISION+%7C+AUTONOMOUS+SYSTEMS;BUILDING+MACHINES+THAT+SEE+%26+MOVE;CODE.+BUILD.+COMPETE.+REPEAT."/>
+
+<br>
+
+<a href="https://github.com/Banu2403">
+<img src="https://img.shields.io/github/followers/Banu2403?style=for-the-badge&logo=github&label=FOLLOWERS&color=0F172A"/>
+</a>
+<a href="https://github.com/Banu2403">
+<img src="https://img.shields.io/github/stars/Banu2403?style=for-the-badge&logo=github&label=STARS&color=0F172A"/>
+</a>
 
 </div>
 
 ---
 
-## 🧠 `WHO AM I?`
+## `> SYSTEM.IDENTITY`
 
-```python
-class Banu:
+```yaml id="j4g8m2"
+name: Banu Isgandarli
+role: Student Developer
+focus:
+  - Robotics
+  - Artificial Intelligence
+  - Computer Vision
+  - Autonomous Systems
 
-    focus = [
-        "Robotics",
-        "Artificial Intelligence",
-        "Computer Vision",
-        "Autonomous Systems"
-    ]
-
-    languages = ["C++", "Python", "TypeScript", "JavaScript"]
-
-    currently_learning = [
-        "Machine Learning",
-        "ROS 2",
-        "SLAM",
-        "Autonomous Navigation"
-    ]
-
-    goal = "Build intelligent machines that can see, think and move."
+mission: >
+  Build intelligent machines that can perceive,
+  understand and interact with the real world.
 ```
 
 ---
 
-## ⚙️ `TECH STACK`
+## `> CORE.TECHNOLOGIES`
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,python,typescript,javascript,react,nodejs,arduino,opencv,ros&perline=9" />
+### PROGRAMMING
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=cpp,python,typescript,javascript" />
 
-<img src="https://skillicons.dev/icons?i=github,git,vscode,linux,tailwind,vite&perline=8" />
+### AI / COMPUTER VISION
 
-</p>
+<img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow" />
+
+### ROBOTICS / SYSTEMS
+
+<img src="https://skillicons.dev/icons?i=arduino,ros,linux" />
+
+### SOFTWARE
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,vite,tailwind,git,github,vscode" />
+
+</div>
 
 ---
 
-## 🤖 `PROJECTS`
+## `> FEATURED.PROJECTS`
 
 <table>
 <tr>
-<td width="50%">
 
-### 🏛️ GuideX
+<td width="50%" valign="top">
 
-**Autonomous Museum Guide Robot**
+### `01` — GUIDEX
 
-A robot designed to navigate through museums, stop at exhibits and provide visitors with information.
+🏛️ **Autonomous Museum Guide Robot**
 
-`Robotics` `Arduino` `Navigation` `Audio`
+```text id="l2c8qk"
+Navigation
+├── Autonomous route following
+├── Exhibit detection
+└── Precise stopping
+
+Interaction
+├── Audio guidance
+└── Visitor assistance
+```
+
+**Stack**
+
+`Arduino` `Sensors` `Audio` `Robotics`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🚗 Autonomous Vehicle
+### `02` — AUTONOMOUS VEHICLE
 
-**AI-powered autonomous system**
+🚗 **AI-Based Autonomous Platform**
 
-Built with **OpenCV, LiDAR and Jetson Orin NX** for perception, object detection and autonomous navigation.
+```text id="8g6q0p"
+PERCEPTION
+   ↓
+LiDAR + Camera
+   ↓
+Object Detection
+   ↓
+Environment Understanding
+   ↓
+Autonomous Navigation
+```
 
-`AI` `Computer Vision` `LiDAR`
+**Stack**
+
+`OpenCV` `LiDAR` `Jetson Orin NX` `AI`
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 🏆 `COMPETITIONS`
+## `> COMPETITIVE.ROBOTICS`
 
-<p align="center">
+<div align="center">
 
-🥇 **Robotex Turkey**   •  
-🥇 **MaestroBot**   •  
-🥇 **Informatrix Romania**
-
-<br>
- 
-🥈 **AIRO**   •  
-
+<img src="https://img.shields.io/badge/ROBOTEX-🥇-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MAESTROBOT-🥇-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/INFORMATRIX-🥇-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WRCC-🥇-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AIRO-🥈-111827?style=for-the-badge"/>
 
 <br><br>
 
-`7+ International STEM & Robotics Competitions`
+**7+ International STEM & Robotics Competitions**
 
-</p>
+</div>
 
 ---
 
-## 📊 `GITHUB ACTIVITY`
+## `> GITHUB.METRICS`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Banu2403&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Banu2403&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=22D3EE&icon_color=818CF8&text_color=CBD5E1" height="175"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Banu2403&layout=compact&hide_border=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Banu2403&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=22D3EE&text_color=CBD5E1" height="175"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Banu2403&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Banu2403&theme=tokyonight&hide_border=true&background=00000000&ring=22D3EE&fire=818CF8&currStreakLabel=22D3EE"/>
 
 </div>
 
 ---
 
-## 🐍 `CONTRIBUTION GRAPH`
+## `> ACTIVITY.STREAM`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Banu2403/Banu2403/output/github-contribution-grid-snake.svg" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Banu2403&bg_color=00000000&color=CBD5E1&line=22D3EE&point=818CF8&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🚀 `CURRENTLY BUILDING`
+## `> CONTRIBUTION.PROTOCOL`
 
 <div align="center">
 
-`🤖 Robotics` → `🧠 AI` → `👁️ Computer Vision` → `⚡ Autonomous Systems`
+<img src="https://raw.githubusercontent.com/Banu2403/Banu2403/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+## `> CURRENT.PROCESS`
+
+```text id="p9k3xa"
+[ LEARN ]
+    ↓
+[ EXPERIMENT ]
+    ↓
+[ BUILD ]
+    ↓
+[ COMPETE ]
+    ↓
+[ ITERATE ]
+    ↺
+```
+
+<div align="center">
+
+### `BUILDING THE FUTURE, ONE SYSTEM AT A TIME.`
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Banu2403&style=for-the-badge&color=7F00FF"/>
+<img src="https://komarev.com/ghpvc/?username=Banu2403&style=flat-square&color=22D3EE&label=PROFILE+VIEWS"/>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### `BUILD • BREAK • LEARN • REBUILD`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:7F00FF&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:312E81&height=120&section=footer"/>
 
 </div>

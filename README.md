@@ -96,10 +96,6 @@ A self-driving platform using **LiDAR, OpenCV and Jetson Orin NX** for environme
 
 ---
 
-## GitHub
-
-<br>
-
 <div align="center">
 
 ### *building things that move, see and think.*

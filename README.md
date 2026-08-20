@@ -91,10 +91,9 @@ Built with **OpenCV, LiDAR and Jetson Orin NX** for perception, object detection
 🥇 **Informatrix Romania**
 
 <br>
-
-🥇 **WRCC Azerbaijan**   •  
+ 
 🥈 **AIRO**   •  
-🥉 **WRCC**
+
 
 <br><br>
 

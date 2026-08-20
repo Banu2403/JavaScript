@@ -84,7 +84,7 @@ A self-driving platform using **LiDAR, OpenCV and Jetson Orin NX** for environme
 
 **7+ international STEM & robotics competitions**
 
-<br>
+<br><br>
 
 🥇 Robotex Turkey · 🥇 MaestroBot · 🥇 Informatrix Romania
 🥇 WRCC Azerbaijan · 🥈 AIRO · 🥉 WRCC
@@ -96,15 +96,13 @@ A self-driving platform using **LiDAR, OpenCV and Jetson Orin NX** for environme
 
 ---
 
-### GitHub
+## GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Banu2403&show_icons=true&hide_border=true&theme=transparent&title_color=7C3AED&icon_color=7C3AED&text_color=64748B"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Banu2403&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<br>
-
-<img src="https://streak-stats.demolab.com?user=Banu2403&theme=transparent&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Banu2403&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -125,5 +123,13 @@ A self-driving platform using **LiDAR, OpenCV and Jetson Orin NX** for environme
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=Banu2403&style=flat-square&color=7C3AED&label=PROFILE+VIEWS"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=120&section=footer"/>
 
 </div>

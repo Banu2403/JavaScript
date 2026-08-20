@@ -99,11 +99,7 @@ React / TypeScript
 🥇 Robotex Turkey
 🥇 MaestroBot
 🥇 Informatrix Romania
-🥇 WRCC Azerbaijan
 🥈 AIRO
-🥉 WRCC
-🇺🇸 FRC America
-🇮🇳 WRCC India
 ```
 
 `7+ international STEM & robotics competitions`
